@@ -1,4 +1,4 @@
-# kaer-button
+# coco-global-banner
 
 ## Project setup
 ```
