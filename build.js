@@ -17,8 +17,7 @@ shell.ls('packages').forEach(file => {
     scripts.push({
       type: 'package',
       filename: file,
-      script: `vue-cli-service build --target lib --name ${file}.${config.version}
-       --dest dist/${file} packages/${file}/index.js`,
+      script: `vue-cli-service build --target lib --name ${file}.${config.version} --dest dist/${file} packages/${file}/index.js`,
     })
   }
 })

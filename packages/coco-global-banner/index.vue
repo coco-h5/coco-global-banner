@@ -1,8 +1,8 @@
 <template>
   <a :href="obj.link">
     <img
+      class="global-banner"
       :src="obj.src"
-      width="100%"
       alt="图片"
     />
   </a>
@@ -19,3 +19,8 @@ export default {
   }
 }
 </script>
+<style>
+.global-banner {
+  width: 100%;
+}
+</style>
