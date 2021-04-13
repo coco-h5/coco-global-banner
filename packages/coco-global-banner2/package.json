@@ -1,8 +1,8 @@
 {
-  "name": "coco-global-banner",
-  "description": "banner组件1",
+  "name": "coco-global-banner2",
+  "description": "banner组件2",
   "version": "0.0.1",
-  "snapshot": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+  "snapshot": "https://img.alicdn.com/imgextra/i2/O1CN011OBgOQ1lgQnWNjjtA_!!6000000004848-0-tps-750-291.jpg",
   "schema": {
     "type": "object",
     "properties": {
@@ -22,6 +22,6 @@
     ]
   },
   "data": {
-    "src": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png"
+    "src": "https://img.alicdn.com/imgextra/i2/O1CN011OBgOQ1lgQnWNjjtA_!!6000000004848-0-tps-750-291.jpg"
   }
 }

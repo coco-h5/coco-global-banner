@@ -6,7 +6,8 @@
     "lint": "vue-cli-service lint",
     "mock": "vue-cli-service serve --mode mock",
     "build": "node ./build.js",
-    "build:ci": "echo 123"
+    "build:ci": "echo 123",
+    "release": "coco releaseCo"
   },
   "postcss": {
     "plugins": {
